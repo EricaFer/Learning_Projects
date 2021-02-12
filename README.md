@@ -7,6 +7,7 @@
 <br><br>
 
 ## [Who is Tweeting? Trump or Trudeau](https://github.com/EricaFer/Who-is-Tweeting-Trump-or-Trudeau)
+## [Analizing Bolsonaro's Tweets](https://github.com/EricaFer/Bolsonaro-Tweets-)
 
 <br>
 
